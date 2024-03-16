@@ -1,0 +1,14 @@
+C:\Users\hp\C#projects\QuizzApplication\obj\Debug\net8.0\QuizzApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\C#projects\QuizzApplication\obj\Debug\net8.0\QuizzApplication.AssemblyInfoInputs.cache
+C:\Users\hp\C#projects\QuizzApplication\obj\Debug\net8.0\QuizzApplication.AssemblyInfo.cs
+C:\Users\hp\C#projects\QuizzApplication\obj\Debug\net8.0\QuizzApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\C#projects\QuizzApplication\bin\Debug\net8.0\QuizzApplication.exe
+C:\Users\hp\C#projects\QuizzApplication\bin\Debug\net8.0\QuizzApplication.deps.json
+C:\Users\hp\C#projects\QuizzApplication\bin\Debug\net8.0\QuizzApplication.runtimeconfig.json
+C:\Users\hp\C#projects\QuizzApplication\bin\Debug\net8.0\QuizzApplication.dll
+C:\Users\hp\C#projects\QuizzApplication\bin\Debug\net8.0\QuizzApplication.pdb
+C:\Users\hp\C#projects\QuizzApplication\obj\Debug\net8.0\QuizzApplication.dll
+C:\Users\hp\C#projects\QuizzApplication\obj\Debug\net8.0\refint\QuizzApplication.dll
+C:\Users\hp\C#projects\QuizzApplication\obj\Debug\net8.0\QuizzApplication.pdb
+C:\Users\hp\C#projects\QuizzApplication\obj\Debug\net8.0\QuizzApplication.genruntimeconfig.cache
+C:\Users\hp\C#projects\QuizzApplication\obj\Debug\net8.0\ref\QuizzApplication.dll
